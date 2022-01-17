@@ -1,6 +1,6 @@
 ### Hey! I'm [@dosiah](https://doyoundo.github.io/) (Youndo Do) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
 
-I'm a AI/ML developer from Korea. 🇰🇷
+I'm a AI/ML developer.
 
 You can find me on
 
