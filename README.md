@@ -1,4 +1,4 @@
-### Hey! I'm [@dosiah](https://doyoundo.github.io/) (Youndo Do) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
+### Hey! I'm [@dosiah](https://doyoundo.github.io/) (Youndo Do) 
 
 I'm a AI/ML developer.
 
