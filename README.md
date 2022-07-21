@@ -1,13 +1,11 @@
 ### Hey! I'm [@dosiah](https://doyoundo.github.io/) (Youndo Do) 
 
-🤖 I'm an AI/ML Enginner. I am interested in Robotics and sim-to-real simulation. 
-⚽ Soccer is my favorite sports. Let's go Reds🔱 :)
+- 🤖 I'm an AI/ML Enginner. I am interested in Robotics and sim-to-real simulation. 
+- ⚽ Soccer is my favorite sports. Let's go Reds🔱 :)
+- 🌴 I love camping.
+- ☁️ I am currently preparing for ML Google Cloud Certificate.
+- 🚀 I love new concepts and trending skills. Feel free to share with me or Let's work together on anything!
 
-🌴 I love camping.
-
-☁️ I am currently preparing for ML Google Cloud Certificate.
-
-🚀 I love new concepts and trending skills. Feel free to share with me or Let's work together on anything!
 
 You can find me on
 
