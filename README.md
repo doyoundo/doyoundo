@@ -2,6 +2,8 @@
 
 I'm a AI/ML developer.
 
+- I am currently preparing for ML Google Cloud Certificate
+
 You can find me on
 
 [![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://837477.github.io)](https://doyoundo.github.io/) 
