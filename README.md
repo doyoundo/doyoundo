@@ -1,4 +1,4 @@
-### Hey! I'm [@dosiah](https://doyoundo.github.io/) (Youndo Do) 
+### Hey! I'm [@doyoundo](https://doyoundo.github.io/) (Youndo Do) 
 
 - 🤖 I'm an AI/ML Enginner. I am interested in Robotics and sim-to-real simulation. 
 - ⚽ Soccer is my favorite sports. Let's go Reds🔱 :)
