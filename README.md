@@ -1,6 +1,6 @@
 ### Hey! I'm [@doyoundo](https://doyoundo.github.io/) (Youndo Do) 
 
-- 🤖 I'm an AI/ML Enginner. I am interested in Robotics and sim-to-real simulation. 
+- 🤖 I'm an ML/RL Enginner. I am interested in Robotics and sim-to-real simulation. 
 - ⚽ Soccer is my favorite sports. Let's go Reds🔱 :)
 - 🌴 I love camping.
 - ☁️ I am currently preparing for ML Google Cloud Certificate.
