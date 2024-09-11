@@ -1,6 +1,8 @@
 ### Hey! I'm [@doyoundo](https://doyoundo.github.io/) (Youndo Do) 
 
-```Currently, I am pursuing a Ph.D. degree, and most of my work and updates are archived in my university's private repositories. Unfortunately, I am unable to disclose any information at this time. Thank you for your understanding.```
+```diff
+- Currently, I am pursuing a Ph.D. degree, and most of my work and updates are archived in my university's private repositories. Unfortunately, I am unable to disclose any information at this time. Thank you for your understanding.
+```
 
 - 🤖 I'm an ML/RL Enginner. I am interested in Robotics and sim-to-real simulation. 
 - ⚽ Soccer is my favorite sports. Let's go Reds🔱 :)
