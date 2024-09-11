@@ -1,7 +1,7 @@
 ### Hey! I'm [@doyoundo](https://doyoundo.github.io/) (Youndo Do) 
 
 ```diff
-- Currently, I am pursuing a Ph.D. degree, and most of my work and updates are archived in my university's private repositories.
+- Currently, I am pursuing a Ph.D. degree, and most of my updates are archived in my university's private repositories.
 - Unfortunately, I am unable to disclose any information at this time. Thank you for your understanding.
 ```
 
