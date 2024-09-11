@@ -1,5 +1,5 @@
 ### Hey! I'm [@doyoundo](https://doyoundo.github.io/) (Youndo Do) 
-<span style="color:blue">some *blue* text</span>.
+
 - 🤖 I'm an ML/RL Enginner. I am interested in Robotics and sim-to-real simulation. 
 - ⚽ Soccer is my favorite sports. Let's go Reds🔱 :)
 - 🌴 I love camping.
